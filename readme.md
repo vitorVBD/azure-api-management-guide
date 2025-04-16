@@ -2,9 +2,10 @@
 <img src="./assets/azure-logo.png" alt="Azure API Management" width="150" /> <br /> <b>Guia para Configuração de APIs com API Management no Azure</b> <br /> <sub><sup><b>(azure-api-management-guide)</b></sup></sub> <br /> </p> 
 <p align="center"> Este projeto é um guia detalhado para configurar e gerenciar APIs utilizando o Azure API Management (APIM). Ele abrange desde a criação do APIM até a configuração de autenticação com JWT, boas práticas e monitoramento. <br /> </p>
 
-<p align="center"> This project is a detailed guide for configuring and managing APIs using Azure API Management (APIM). It covers everything from creating the APIM to setting up JWT authentication, best practices, and monitoring. <br /> </p
+<p align="center"> This project is a detailed guide for configuring and managing APIs using Azure API Management (APIM). It covers everything from creating the APIM to setting up JWT authentication, best practices, and monitoring. <br /> </p>
 
 ---
+
 <details> <summary>🇧🇷 Detalhes do Projeto (Português)</summary>
 
 ## Resumo do Projeto
